@@ -4,7 +4,6 @@ function calculoDeModosDistintos (numPessoas) {
 
     // Calcular o fatorial do número de pessoas
     const modosDistintos = calcularFatoreal(numPessoas)
-
     return modosDistintos
 }
 
